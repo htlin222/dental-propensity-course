@@ -38,6 +38,19 @@ Ships with two simulated datasets — one to train on, one held back to prove th
 
 ---
 
+## 學員只需要兩個檔案
+
+不用 GitHub 帳號、不用 Codespaces、不用裝任何東西。開一個 AI 對話視窗，把檔案上傳進去就能開始。
+
+| 何時發 | 下載連結 |
+|---|---|
+| 一開始 | [dental_patients.csv](https://raw.githubusercontent.com/htlin222/dental-propensity-course/main/data/dental_patients.csv) |
+| **第 5 步才發** | [dental_patients_new.csv](https://raw.githubusercontent.com/htlin222/dental-propensity-course/main/data/dental_patients_new.csv) |
+
+在連結上按右鍵「另存新檔」。第二個檔案先不要給 —— 它是用來驗證的，提早拿到就沒有驗證的意義了。
+
+搭配 [`prompt-cards.md`](prompt-cards.md) 的提示詞，一次貼一段。
+
 ## 開課要用的東西
 
 | 檔案 | 給誰 | 說明 |
@@ -50,7 +63,7 @@ Ships with two simulated datasets — one to train on, one held back to prove th
 
 ## 講師事前驗證
 
-跑一次就會印出課堂上會出現的所有數字。
+跑一次就會印出課堂上會出現的所有數字，用來對答案。**這一段是給講師的，學員不需要。**
 
 **在 Codespaces**（不用裝任何東西）：按上面的 badge，或直接開這個網址
 
