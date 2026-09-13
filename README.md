@@ -10,7 +10,7 @@ Ships with two simulated datasets — one to train on, one held back to prove th
 
 一堂 60 分鐘的零基礎課。學員不寫程式，複製提示詞給 AI，AI 跑 Python，全班一起看結果。
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/htlin222/dental-propensity-course)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/htlin222/dental-propensity-course?quickstart=1)
 
 ---
 
@@ -52,11 +52,20 @@ Ships with two simulated datasets — one to train on, one held back to prove th
 
 跑一次就會印出課堂上會出現的所有數字。
 
-**在 Codespaces**：按上面的 badge，等容器起來，然後
+**在 Codespaces**（不用裝任何東西）：按上面的 badge，或直接開這個網址
+
+```
+https://codespaces.new/htlin222/dental-propensity-course?quickstart=1
+```
+
+等容器起來（第一次約 1–2 分鐘），然後
 
 ```bash
 python analysis/run_all.py
 ```
+
+`?quickstart=1` 會直接在瀏覽器版 VS Code 開啟，而且如果你之前開過，
+它會問要不要接續原本那個，不會每次都新建一個。
 
 **在自己電腦**：
 
