@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" font-family="DejaVu Sans Mono, Courier New, monospace">
+  <rect width="1280" height="640" fill="#1A1A1A"/>
+
+  <!-- rule -->
+  <rect x="80" y="112" width="220" height="5" fill="#FFFFFF"/>
+
+  <!-- title -->
+  <text x="80" y="200" fill="#FFFFFF" font-size="62" font-weight="bold" letter-spacing="1">Dental Self-Pay</text>
+  <text x="80" y="272" fill="#FFFFFF" font-size="62" font-weight="bold" letter-spacing="1">Propensity Model</text>
+
+  <text x="82" y="326" fill="#8C8C8C" font-size="24" letter-spacing="4">60 MIN&#160;&#160;/&#160;&#160;NO CODE&#160;&#160;/&#160;&#160;TEACHING KIT</text>
+
+  <!-- five steps -->
+  <g>
+    <rect x="80" y="392" width="200" height="86" fill="none" stroke="#4D4D4D" stroke-width="1.5"/>
+    <text x="98" y="424" fill="#8C8C8C" font-size="17">1</text>
+    <text x="98" y="454" fill="#FFFFFF" font-size="20">Explore</text>
+    <text x="292" y="444" fill="#4D4D4D" font-size="20">&#8594;</text>
+
+    <rect x="320" y="392" width="200" height="86" fill="none" stroke="#4D4D4D" stroke-width="1.5"/>
+    <text x="338" y="424" fill="#8C8C8C" font-size="17">2</text>
+    <text x="338" y="454" fill="#FFFFFF" font-size="20">Baseline</text>
+    <text x="532" y="444" fill="#4D4D4D" font-size="20">&#8594;</text>
+
+    <rect x="560" y="392" width="200" height="86" fill="none" stroke="#4D4D4D" stroke-width="1.5"/>
+    <text x="578" y="424" fill="#8C8C8C" font-size="17">3</text>
+    <text x="578" y="454" fill="#FFFFFF" font-size="20">Describe</text>
+    <text x="772" y="444" fill="#4D4D4D" font-size="20">&#8594;</text>
+
+    <rect x="800" y="392" width="200" height="86" fill="none" stroke="#4D4D4D" stroke-width="1.5"/>
+    <text x="818" y="424" fill="#8C8C8C" font-size="17">4</text>
+    <text x="818" y="454" fill="#FFFFFF" font-size="20">Model</text>
+    <text x="1012" y="444" fill="#4D4D4D" font-size="20">&#8594;</text>
+
+    <rect x="1040" y="392" width="160" height="86" fill="#FFFFFF"/>
+    <text x="1058" y="424" fill="#8C8C8C" font-size="17">5</text>
+    <text x="1058" y="454" fill="#1A1A1A" font-size="20" font-weight="bold">Validate</text>
+  </g>
+
+  <!-- result strip -->
+  <rect x="80" y="536" width="1120" height="1.5" fill="#4D4D4D"/>
+  <text x="80" y="586" fill="#FFFFFF" font-size="26">Top 100 of 1,200 unseen patients</text>
+  <text x="700" y="586" fill="#8C8C8C" font-size="26">24.3%</text>
+  <text x="800" y="586" fill="#4D4D4D" font-size="26">&#8594;</text>
+  <text x="848" y="586" fill="#FFFFFF" font-size="26" font-weight="bold">66.0%</text>
+  <text x="1000" y="586" fill="#8C8C8C" font-size="26">2.7x lift</text>
+</svg>
